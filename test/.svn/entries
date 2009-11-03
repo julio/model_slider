@@ -1,0 +1,28 @@
+8
+
+dir
+11215
+svn://microplacedev3/microplace/trunk/src/microplace/vendor/plugins/model_slider/test
+svn://microplacedev3
+
+
+
+2009-11-03T21:30:06.732096Z
+11215
+jusantos
+
+
+svn:special svn:externals svn:needs-lock
+
+model_slider_test.rb
+file
+
+
+
+
+2009-11-03T22:01:42.000000Z
+c92eda5f0dbdbbbad33101db8fac0a50
+2009-11-03T21:30:06.732096Z
+11215
+jusantos
+
