@@ -1,97 +1,0 @@
-8
-
-dir
-11215
-svn://microplacedev3/microplace/trunk/src/microplace/vendor/plugins/model_slider
-svn://microplacedev3
-
-
-
-2009-11-03T21:30:06.732096Z
-11215
-jusantos
-
-
-svn:special svn:externals svn:needs-lock
-
-test
-dir
-
-Rakefile
-file
-
-
-
-
-2009-11-03T22:01:42.000000Z
-2aacb494ed3a393aa2d0c016ca1c3e8b
-2009-11-03T21:30:06.732096Z
-11215
-jusantos
-
-init.rb
-file
-
-
-
-
-2009-11-03T22:04:17.000000Z
-3635d9ff56efd983aa23922e74dac529
-2009-11-03T21:30:06.732096Z
-11215
-jusantos
-
-tasks
-dir
-
-lib
-dir
-
-install.rb
-file
-
-
-
-
-2009-11-03T22:01:42.000000Z
-cbe738c10eba4ae2da8c6859c9723e44
-2009-11-03T21:30:06.732096Z
-11215
-jusantos
-
-MIT-LICENSE
-file
-
-
-
-
-2009-11-03T22:01:42.000000Z
-e2818073276d0c1fdc48446b1412b3f2
-2009-11-03T21:30:06.732096Z
-11215
-jusantos
-
-uninstall.rb
-file
-
-
-
-
-2009-11-03T22:01:42.000000Z
-2a5fc883fe7f8dfe22ced24643d59ad4
-2009-11-03T21:30:06.732096Z
-11215
-jusantos
-
-README
-file
-
-
-
-
-2009-11-03T22:01:42.000000Z
-9b9a1dffabab0da3420190a9bc497304
-2009-11-03T21:30:06.732096Z
-11215
-jusantos
-
